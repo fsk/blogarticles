@@ -1,0 +1,1 @@
+Merhaba bu benim ilk yazım.
