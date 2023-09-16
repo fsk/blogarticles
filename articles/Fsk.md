@@ -1,4 +1,4 @@
-![img.png](img.png)
+![img.png](https://raw.githubusercontent.com/fsk/blogarticles/master/articles/img.png?token=GHSAT0AAAAAACHFSOONBMTFABWLXM33MOBUZIFXMYA)
 
 nabiyonuz laa yukarıdaki sayfa html sayfası biliyonuz muuu. :D :D 
 
