@@ -26,10 +26,10 @@ asdadasd>
 > asldkjakdsj
 
 
-\```json
+```json
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-\```
+```
