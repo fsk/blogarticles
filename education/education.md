@@ -3,8 +3,6 @@
   <b>2014-2019</b>
   <b>Mühendislik Fakültesi</b>
   </br>
-  <b>Mühendislik Fakültesi</b>
-  </br>
   <b>Bilgisayar Mühendisliği</b>
   </br>
   <b>2.76 Ortalama</b>
