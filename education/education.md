@@ -1,19 +1,21 @@
-* Konya Selçuk Üniversitesi (Lisans)
-  --
-  <b>2014-2019</b>
-  <b>Mühendislik Fakültesi</b>
-  </br>
-  <b>Bilgisayar Mühendisliği</b>
-  </br>
-  <b>2.76 Ortalama</b>
+# Eğitim Bilgileri
 
-* Konya Teknik Üniversitesi (Yüksek Lisans)
-  --
-  <b>2014-2019</b>
-  <b>Mühendislik Fakültesi</b>
-  </br>
-  <b>Yazılım Mühendisliği Bölümü</b>
-  </br>
-  <b>2024 - Devam</b>
-  </br>
-  <b>Tez Konusu: Bir seyler</b>
+## 🎓 Lisans
+### Konya Selçuk Üniversitesi
+> **2014 - 2019**
+
+📍 **Mühendislik Fakültesi**  
+🖥️ **Bilgisayar Mühendisliği Bölümü**  
+📊 **Genel Not Ortalaması:** 2.76
+
+---
+
+## 🎓 Yüksek Lisans
+### Konya Teknik Üniversitesi
+> **2024 - Devam Ediyor**
+
+📍 **Mühendislik Fakültesi**  
+🖥️ **Yazılım Mühendisliği Bölümü**  
+
+### Tez Çalışması
+📑 **Konu:** Bir şeyler
