@@ -1,5 +1,3 @@
-# Eğitim Bilgileri
-
 ## Konya Selçuk Üniversitesi
 **Lisans Eğitimi** | 2014 - 2019
 
