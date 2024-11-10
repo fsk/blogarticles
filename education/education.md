@@ -1,17 +1,22 @@
 
 ## Konya Selçuk Üniversitesi
-**Lisans Eğitimi** | 2014 - 2019
+**Lisans** 
 
-Mühendislik Fakültesi  
-Bilgisayar Mühendisliği Bölümü  
-Genel Not Ortalaması: 2.76
+**2014 - 2019**
+
+**Mühendislik Fakültesi**
+
+**Bilgisayar Mühendisliği** 
+**Genel Not Ortalaması:** 2.76
 
 
 ## Konya Teknik Üniversitesi
-**Yüksek Lisans** | 2024 - Devam Ediyor
+**Yüksek Lisans**
 
-Mühendislik Fakültesi  
-Yazılım Mühendisliği Bölümü  
+**2024 - Devam**
 
-**Tez Çalışması**  
-Konu: Bir şeyler
+**Mühendislik Fakültesi**
+
+**Yazılım Mühendisliği Bölümü**  
+
+**Tez Konusu:** Hexagonal Mimari ile Microservice'ler arasındaki Metrik Farkları
