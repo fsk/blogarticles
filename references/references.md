@@ -1,4 +1,31 @@
 
+## Serkan BİNGÖL
+**Şu Anki Şirketi:** CMIT
+
+**Şu Anki Title:** Yazılım Direktörü
+
+**Birlikte Çalıştığımız Kurum:** CMIT
+
+**Beraber Çalışırken Görevi:** Yazılım Direktörü
+
+## Umut ÇELEBİ
+**Şu Anki Şirketi:** CMIT
+
+**Şu Anki Title:** Yazılım Takım Lideri
+
+**Birlikte Çalıştığımız Kurum:** CMIT
+
+**Beraber Çalışırken Görevi:** Yazılım Takım Lideri
+
+
+## Muhammet Ali KAYA
+**Şu Anki Şirketi:** Bilge Adam
+
+**Şu Anki Title:** Senior Lecturer
+
+**Birlikte Çalıştığımız Kurum:** BeeMe
+
+**Beraber Çalışırken Görevi:** CTO
 
 ## Evren TAN
 **Şu Anki Şirketi:** Pointr
@@ -18,20 +45,12 @@
 
 **Beraber Çalışırken Görevi:** Solution Development Manager
 
-## Serkan BİNGÖL
-**Şu Anki Şirketi:** CMIT
 
-**Şu Anki Title:** Yazılım Direktörü
+## Cihad ALAN
+**Şu Anki Şirketi:** Xerini
 
-**Birlikte Çalıştığımız Kurum:** CMIT
+**Şu Anki Title:** Senior FullStack Developer
 
-**Beraber Çalışırken Görevi:** Yazılım Direktörü
+**Birlikte Çalıştığımız Kurum:** KeyData
 
-## Umut ÇELEBİ
-**Şu Anki Şirketi:** CMIT
-
-**Şu Anki Title:** Yazılım Takım Lideri
-
-**Birlikte Çalıştığımız Kurum:** CMIT
-
-**Beraber Çalışırken Görevi:** Yazılım Takım Lideri
+**Beraber Çalışırken Görevi:** Senior FullStack Developer
