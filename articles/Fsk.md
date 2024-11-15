@@ -1,5 +1,5 @@
 ---
-title: Örnek Yazı
+title: Fsk
 tags: spring boot, javascript
 date: 2024-03-20
 ---
