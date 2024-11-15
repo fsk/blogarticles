@@ -1,5 +1,5 @@
 ---
-title: Örnek Yazı
+title: FirstBlog
 tags: javascript, nodejs, express
 date: 2024-03-20
 ---
