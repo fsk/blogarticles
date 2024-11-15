@@ -1,3 +1,9 @@
+---
+title: Örnek Yazı
+tags: spring boot, javascript
+date: 2024-03-20
+---
+
 ![img.png](https://raw.githubusercontent.com/fsk/blogarticles/master/articles/img.png?token=GHSAT0AAAAAACHFSOONBMTFABWLXM33MOBUZIFXMYA)
 
 nabiyonuz laa yukarıdaki sayfa html sayfası biliyonuz muuu. :D :D 
