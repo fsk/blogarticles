@@ -8,16 +8,6 @@
 
 **Beraber Çalışırken Görevi:** Yazılım Direktörü
 
-## Umut ÇELEBİ
-**Şu Anki Şirketi:** CMIT
-
-**Şu Anki Title:** Yazılım Takım Lideri
-
-**Birlikte Çalıştığımız Kurum:** CMIT
-
-**Beraber Çalışırken Görevi:** Yazılım Takım Lideri
-
-
 ## Muhammet Ali KAYA
 **Şu Anki Şirketi:** Bilge Adam
 
