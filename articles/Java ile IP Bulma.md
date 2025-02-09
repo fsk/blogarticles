@@ -1,13 +1,12 @@
 ---
 title: Java ile IP İşlemleri
 tags: kendime, java, ip
-date: 2024-03-21
+date: 2025-02-10
 ---
 
 ## Java İle IP Bulmak
 
-Javada 2 farklı IP adresi bulunabiliyor. `InetAddress class` ve `NetworkInterface` class. Ama NetworkInterface class
-`Enumeration` kullandığı için onu burada es geçeceğim.
+Javada 2 farklı IP adresi bulunabiliyor. `InetAddress class` ve `NetworkInterface` class.
 
 ```java
 try {
